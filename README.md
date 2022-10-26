@@ -9,4 +9,5 @@ Para rodar este projeto na sua máquina, digite:
 node app.js
 ```
 :)
-Teste comando pull
+Teste git commit do local para origem
+Auto save
