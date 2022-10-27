@@ -10,4 +10,4 @@ node app.js
 ```
 Teste git commit do local para origem
 
-Auto save
+git commit
